@@ -4,7 +4,7 @@
   "private": true,
   "license": "Apache-2.0",
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.47.0",
     "iptrie": "http://github.com/awick/node-iptrie/tarball/nodev12",
     "serve-favicon": "^2.5.0"
   },
